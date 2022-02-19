@@ -1,1 +1,1 @@
-export * from "./queries/person-list-query";//
+export * from "./queries/person-list-query";
